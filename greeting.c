@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define GREETING    "Bye"
+#define GREETING    "Hi"
 #define YOUR_NAME   "Alice"
 
 int main()
